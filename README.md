@@ -1,2 +1,2 @@
 # Rpg-Shenanigans
-My first game
+This is my first game. Thank you for downloading and playing my game
